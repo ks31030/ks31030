@@ -1,6 +1,5 @@
 ### About Me
-<h1 align="center">Hi 👋, this is Seok Kim, a developer who codes dreams.</h1>
-<h3 align="center">I want to work with passionate team.</h3>
+<h3 align="center">Hi 👋, this is Seok Kim, a developer who codes dreams.<br>I want to work with passionate team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ks31030&label=Profile%20views&color=0e75b6&style=flat" alt="ks31030" /> </p>
 
