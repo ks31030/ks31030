@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me
+
+<h1>Hi 👋, this is Seok Kim, a developer who codes dreams.</h1>
 
 <!--
 **ks31030/ks31030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
